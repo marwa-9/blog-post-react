@@ -1,3 +1,5 @@
+
+/*
 import BlogPost from "./components/BlogPost";
 
 function App() {
@@ -6,6 +8,17 @@ function App() {
       <BlogPost />
     </div>
   );
+}
+
+export default App;
+*/
+
+
+
+import LikeButton from "./homework 4/LikeButton";
+
+function App() {
+  return <LikeButton />;
 }
 
 export default App;
